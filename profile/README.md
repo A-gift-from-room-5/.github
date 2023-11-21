@@ -1,4 +1,4 @@
-![스크린샷 2023-08-19 152257.png](../profile/README-assets/c8289444305335adbf43f2cf5c6faf4e81eb45ce.png)
+![c8289444305335adbf43f2cf5c6faf4e81eb45ce](https://github.com/A-gift-from-room-5/.github/assets/79788971/4d6b8b2e-2fc5-4652-a0c2-f77aff2ace86)
 
 ###### 배포 주소
 
@@ -171,7 +171,7 @@ npm start
 - 비움 시작하기 버튼을 눌러 로그인 페이지로 넘어갑니다.
 - 비움의 효능, 비움 서비스를 착안하게 된 계기, 이용 안내 페이지 입니다.
 
-  <img title="" src="README-assets/최종-메인페이지.gif" alt="" width="" height="">
+![최종-메인페이지](https://github.com/A-gift-from-room-5/.github/assets/79788971/8e8bbe35-cc8b-4ee4-a978-e24700abe51e)
 
 ## 회원가입, 로그인
 
@@ -179,13 +179,13 @@ npm start
 - 모든 정보를 작성한 후 회원가입 버튼을 클릭하면 회원가입이 성공하였다는 알림창이 뜨고 로그인 창으로 넘어갑니다.
 - 회원가입한 이메일과 비밀번호를 맞게 입력하고 로그인 버튼을 클릭하면 로그인 성공과 함께 게임 목록 페이지로 이동합니다.
 
-  <img title="" src="README-assets/최종-회원가입_로그인.gif" alt="" width="" height="">
+![최종-회원가입_로그인](https://github.com/A-gift-from-room-5/.github/assets/79788971/b87ec697-02c9-43ef-847f-52da98c0ff5a)
 
 ## 비밀번호 찾기
 
 - 비밀번호를 찾고 싶은 경우 비밀번호 찾기를 클릭하면 모달창이 뜹니다. 이메일을 입력하고 전송 버튼을 클릭하면 임시 비밀번호가 입력한 이메일로 전송됩니다.
 
-  <img title="" src="README-assets/최종-비밀번호-찾기-메일-확인.gif" alt="" width="" height="">
+![최종-비밀번호-찾기-메일-확인](https://github.com/A-gift-from-room-5/.github/assets/79788971/a7ab34a5-5505-45b1-b33b-991f530f1f1f)
 
 ## 비움방 검색
 
@@ -193,7 +193,7 @@ npm start
 - 방 생성을 원하는 경우 + 버튼을 클릭하면 방 정보를 작성할 수 있습니다.
 - 방 제목을 입력하고 최대인원은 4명까지 설정할 수 있습니다. 불 물 중에 원하는 영상 종류를 선택하고 비밀방 여부도 선택하여 방을 생성합니다.
 
-  <img title="" src="README-assets/최종-방-검색.gif" alt="" width="" height="">
+![최종-방-검색](https://github.com/A-gift-from-room-5/.github/assets/79788971/952e9a31-415b-480b-ac9d-cf176d90fff7)
 
 ## 비움방 ( 실시간 라이브 스트리밍 비움 )
 
@@ -206,17 +206,17 @@ npm start
 
 ### 참여자
 
-<img title="" src="README-assets/최종-참여자-기준-게임방.gif" alt="" width="" height="">
+![최종-참여자-기준-게임방](https://github.com/A-gift-from-room-5/.github/assets/79788971/4111b98d-8868-4941-8d6a-fb7e43e9b730)
 
 ### 방장
 
-<img title="" src="README-assets/비움방.gif" alt="" width="" height="">
+![비움방](https://github.com/A-gift-from-room-5/.github/assets/79788971/1467ee89-0657-4c4c-83b0-bf1f09cec9ab)
 
 ## 방해버튼
 
 - Disturb를 클릭하여 빵빠레가 터지면서 방해 기능을 할 수 있습니다.
 
-  <img title="" src="README-assets/방해버튼.gif" alt="" width="" height="">
+![방해버튼](https://github.com/A-gift-from-room-5/.github/assets/79788971/833d6bc3-6cbd-4a9d-8520-0f0c19b24086)
 
 ## 마이페이지 ( 비움 기록 확인 )
 
@@ -225,7 +225,7 @@ npm start
 - 회원 정보 수정 버튼을 클릭하면 정보를 수정할 수 있는 모달창이 뜹니다.
 - 회원 탈퇴를 원하는 경우 버튼을 클릭하면 비밀번호 입력창이 뜹니다. 본인이 가입할 때 설정한 비밀번호를 입력하면 회원 탈퇴를 할 수 있습니다.
 
-  <img title="" src="README-assets/최종-마이페이지-회원탈퇴.gif" alt="" width="" height="">
+![최종-마이페이지-회원탈퇴](https://github.com/A-gift-from-room-5/.github/assets/79788971/ca0cbb6a-e1b8-42b8-ad91-015378d5bd00)
 
 # 📌프로젝트 진행 및 산출물
 
@@ -237,11 +237,11 @@ npm start
 
 ##### 1. Figma
 
-<img title="" src="README-assets/figma.PNG" alt="" width="" height="">
+![figma](https://github.com/A-gift-from-room-5/.github/assets/79788971/6506eb33-d65f-4b03-865f-58b237d32587)
 
 ##### 2. ERD
 
-<img title="" src="README-assets/Bium ERD.png" alt="" width="" height="">
+![Bium ERD](https://github.com/A-gift-from-room-5/.github/assets/79788971/cd32f45e-0091-4bc3-a736-5ecb0282514a)
 
 ##### 3. API 설계서
 
@@ -253,7 +253,7 @@ npm start
 
 ##### 5. 시스템 아키텍처
 
-<img title="" src="README-assets/시스템아키텍처.PNG" alt="" width="" height="">
+![시스템아키텍처](https://github.com/A-gift-from-room-5/.github/assets/79788971/d09f01f3-2b0f-4a7f-aeb1-81e92236bf18)
 
 ##### 6. Git Flow 브랜치 전략
 
@@ -280,7 +280,7 @@ npm start
 
 ##### 7. Jira
 
-<img title="git graph" src="README-assets/jira_번다운 차트.PNG" alt="" width="" height="" />
+![jira_번다운 차트](https://github.com/A-gift-from-room-5/.github/assets/79788971/1581fbe1-6344-477b-bf14-45aab3e5bb77)
 
 - 목적: 협업, 일정, 업무 관리
 - 방법
@@ -295,6 +295,6 @@ npm start
 
 |                                                                 손효민                                                                 |                                                                김동현                                                                 |                                                               연주원                                                                |                                                               이지혁                                                                |                                                                 이정찬                                                                 |                                                               최지수                                                               |
 | :------------------------------------------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------------------------------------: |
-|                                <img title="" src="README-assets/SonHyoMin00.png" alt="Git" width="188">                                |                                <img title="" src="README-assets/DongHyun22.png" alt="Git" width="188">                                |                                <img title="" src="README-assets/joo1yeon.jpg" alt="Git" width="188">                                |                                <img title="" src="README-assets/illu1996.png" alt="Git" width="188">                                |                                <img title="" src="README-assets/jeongchanim.png" alt="Git" width="188">                                |                                <img title="" src="README-assets/cjjss11.png" alt="Git" width="188">                                |
+|                                <img src="https://avatars.githubusercontent.com/sonhyomin00" width="188"  alt="sonhyomin00"/>                                |                                <img src="https://avatars.githubusercontent.com/DongHyun22" width="188"  alt="DongHyun22"/>                                |                                <img src="https://avatars.githubusercontent.com/joo1yeon" width="188"  alt="joo1yeon"/>                                |                                <img src="https://avatars.githubusercontent.com/illu1996" width="188"  alt="illu1996"/>                                |                                <img src="https://avatars.githubusercontent.com/jeongchanim" width="188"  alt="jeongchanim"/>                                |                                <img src="https://avatars.githubusercontent.com/cjjss11" width="188"  alt="cjjss11"/>                                |
 | [<img title="" src="README-assets/c39c28c470f7abfb058794ccc718bdc7c7a020a1.png" alt="Git" width="75">](https://github.com/sonhyomin00) | [<img title="" src="README-assets/c39c28c470f7abfb058794ccc718bdc7c7a020a1.png" alt="Git" width="75">](https://github.com/DongHyun22) | [<img title="" src="README-assets/c39c28c470f7abfb058794ccc718bdc7c7a020a1.png" alt="Git" width="75">](https://github.com/joo1yeon) | [<img title="" src="README-assets/c39c28c470f7abfb058794ccc718bdc7c7a020a1.png" alt="Git" width="75">](https://github.com/illu1996) | [<img title="" src="README-assets/c39c28c470f7abfb058794ccc718bdc7c7a020a1.png" alt="Git" width="75">](https://github.com/jeongchanim) | [<img title="" src="README-assets/c39c28c470f7abfb058794ccc718bdc7c7a020a1.png" alt="Git" width="75">](https://github.com/cjjss11) |
 |                                                          **팀장**, BE-Leader                                                           |                                                                  BE                                                                   |                                                                 BE                                                                  |                                                              FE-Leader                                                              |                                                                   FE                                                                   |                                                                 FE                                                                 |
