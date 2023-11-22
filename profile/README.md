@@ -241,7 +241,7 @@ npm start
 
 ##### 2. ERD
 
-![Bium ERD](./README-assets/bium_ERD.png)
+![Bium ERD](https://github.com/A-gift-from-room-5/bium/README-assets/bium_ERD.png)
 
 ##### 3. API 설계서
 
