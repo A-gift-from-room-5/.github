@@ -259,7 +259,7 @@ npm start
 
 | Git Graph | Contributor Statistics |
 | --- | --- |
-| <img title="git graph" src="README-assets/Git Graph.gif" alt="" width="" height="" /> | <img title="contributor statistics" src="README-assets/contributor_statistics.png" alt="" width="" height="" /> |
+| <img title="git graph" src="https://github.com/A-gift-from-room-5/bium/blob/develop/README-assets/Git%20Graph.gif" alt="" width="" height="" /> | <img title="contributor statistics" src="https://github.com/A-gift-from-room-5/bium/blob/develop/README-assets/contributor_statistics.png" alt="" width="" height="" /> |
 
 
 - Git Flow 사용 브랜치
@@ -282,11 +282,11 @@ npm start
 
 | 3주차 | 4주차 | 5주차 |
 | ----- | ----- | ----- |
-| ![jira_번다운차트_3주차](./README-assets/jira_번다운차트_2주차.png) | ![jira_번다운차트_4주차](./README-assets/jira_번다운차트_3주차.png) | ![jira_번다운차트_5주차](./README-assets/jira_번다운차트_4주차.png) |
+| ![jira_번다운차트_3주차](https://github.com/A-gift-from-room-5/bium/blob/develop/README-assets/jira_%EB%B2%88%EB%8B%A4%EC%9A%B4%EC%B0%A8%ED%8A%B8_2%EC%A3%BC%EC%B0%A8.png) | ![jira_번다운차트_4주차](https://github.com/A-gift-from-room-5/bium/blob/develop/README-assets/jira_%EB%B2%88%EB%8B%A4%EC%9A%B4%EC%B0%A8%ED%8A%B8_3%EC%A3%BC%EC%B0%A8.png) | ![jira_번다운차트_5주차](https://github.com/A-gift-from-room-5/bium/blob/develop/README-assets/jira_%EB%B2%88%EB%8B%A4%EC%9A%B4%EC%B0%A8%ED%8A%B8_4%EC%A3%BC%EC%B0%A8.png) |
 
 | 6주차 | 7주차 |
 | ----- | ----- |
-| ![jira_번다운차트_6주차](./README-assets/jira_번다운차트_5주차.png) | ![jira_번다운차트_7주차](./README-assets/jira_번다운차트_6주차.png) |
+| ![jira_번다운차트_6주차](https://github.com/A-gift-from-room-5/bium/blob/develop/README-assets/jira_%EB%B2%88%EB%8B%A4%EC%9A%B4%EC%B0%A8%ED%8A%B8_5%EC%A3%BC%EC%B0%A8.png) | ![jira_번다운차트_7주차](https://github.com/A-gift-from-room-5/bium/blob/develop/README-assets/jira_%EB%B2%88%EB%8B%A4%EC%9A%B4%EC%B0%A8%ED%8A%B8_6%EC%A3%BC%EC%B0%A8.png) |
 
 - 목적: 협업, 일정, 업무 관리
 - 방법
